@@ -155,7 +155,7 @@
     <bool name="config_additional_call_setting">true</bool>
 
     <!-- Show APN Settings for some CDMA carriers -->
-    <bool name="config_show_apn_setting_cdma">false</bool>
+    <bool name="config_show_apn_setting_cdma">true</bool>
 
     <!-- Allows the telephony HFA logic to run even if we're not in setup wizard. -->
     <bool name="config_allow_hfa_outside_of_setup_wizard">true</bool>
